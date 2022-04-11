@@ -1,5 +1,5 @@
 # Meo.Pesquisa
-Nesse projeto estou utilizando ASP.NET Core, CQRS e Mediator, EF Core com code first e migration. O objetivo desse projeto é a configuração, publicação de formulários
+Nesse projeto estou utilizando ASP.NET Core, CQRS, Mediator, EF Core com code first e migrations. O objetivo desse projeto é a configuração, publicação de formulários
 dinamicamentes para análise de dados.
 
 back-end: https://github.com/Enistay/Meo.Pesquisa/tree/master/Meo.Pesquisa
